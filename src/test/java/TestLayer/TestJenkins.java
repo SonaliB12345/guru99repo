@@ -8,6 +8,10 @@ public class TestJenkins {
 		
 		
 		System.out.println("test");
+		
+		System.out.println("test");
+		
+		
 	}
 
 }
